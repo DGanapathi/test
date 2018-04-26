@@ -1,0 +1,15 @@
+D:\Gani\PRandBuildStausTool-master\GetPRStatus\bin\Debug\GetPRStatus.exe.config
+D:\Gani\PRandBuildStausTool-master\GetPRStatus\bin\Debug\GetPRStatus.exe
+D:\Gani\PRandBuildStausTool-master\GetPRStatus\bin\Debug\GetPRStatus.pdb
+D:\Gani\PRandBuildStausTool-master\GetPRStatus\bin\Debug\GetPRStatus.xml
+D:\Gani\PRandBuildStausTool-master\GetPRStatus\bin\Debug\Interop.SHDocVw.dll
+D:\Gani\PRandBuildStausTool-master\GetPRStatus\obj\Debug\GetPRStatus.vbprojResolveAssemblyReference.cache
+D:\Gani\PRandBuildStausTool-master\GetPRStatus\obj\Debug\Interop.SHDocVw.dll
+D:\Gani\PRandBuildStausTool-master\GetPRStatus\obj\Debug\GetPRStatus.vbproj.ResolveComReference.cache
+D:\Gani\PRandBuildStausTool-master\GetPRStatus\obj\Debug\GetPRStatus.frmHome.resources
+D:\Gani\PRandBuildStausTool-master\GetPRStatus\obj\Debug\GetPRStatus.Resources.resources
+D:\Gani\PRandBuildStausTool-master\GetPRStatus\obj\Debug\GetPRStatus.vbproj.GenerateResource.cache
+D:\Gani\PRandBuildStausTool-master\GetPRStatus\obj\Debug\GetPRStatus.vbproj.CoreCompileInputs.cache
+D:\Gani\PRandBuildStausTool-master\GetPRStatus\obj\Debug\GetPRStatus.exe
+D:\Gani\PRandBuildStausTool-master\GetPRStatus\obj\Debug\GetPRStatus.xml
+D:\Gani\PRandBuildStausTool-master\GetPRStatus\obj\Debug\GetPRStatus.pdb
